@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>849858280732-rdq9fi99i50qunvt0m8oh139mrjfvj63.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.849858280732-rdq9fi99i50qunvt0m8oh139mrjfvj63</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDl_aqqmfiBcJEXiy_QU-sqVl8LlEXAkj0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>849858280732</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>SS.Wheels</string>
+	<key>PROJECT_ID</key>
+	<string>wheels-1b571</string>
+	<key>STORAGE_BUCKET</key>
+	<string>wheels-1b571.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:849858280732:ios:a72d31df23310b27</string>
+	<key>DATABASE_URL</key>
+	<string>https://wheels-1b571.firebaseio.com</string>
+</dict>
+</plist>
